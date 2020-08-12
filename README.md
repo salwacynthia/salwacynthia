@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Cynthia, Salwa Salam
 
-<!--
-**salwacynthia/salwacynthia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a Full Stack Web Developer based in Berlin
+Looking for an exciting opportunity in working with JavaScript | React js | Redux | Node js |Express js | HTML5 | CSS3
+Absolutely ready to learn new programming languages and technologies
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Redux to make memory game
+- 🌱 I’m currently learning Docker
+- 👯 I’m looking to collaborate on User-centric Application 
+- 🤔 I’m looking for help with new React features
+- 📫 How to reach me: https://www.linkedin.com/in/cynthia-salwa-salam-61394975/
+- 😄 Pronouns: Optimist, Dreamer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
