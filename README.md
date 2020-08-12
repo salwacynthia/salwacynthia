@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Cynthia, Salwa Salam
+### Hi there 👋 I'm Salwa Salam Cynthia
 
 a Full Stack Web Developer based in Berlin
 Looking for an exciting opportunity in working with JavaScript | React js | Redux | Node js |Express js | HTML5 | CSS3
