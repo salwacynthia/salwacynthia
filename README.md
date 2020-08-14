@@ -6,8 +6,7 @@ Absolutely ready to learn new programming languages and technologies
 
 - 🔭 I’m currently working on Redux to make memory game
 - 🌱 I’m currently learning Docker
-- 👯 I’m looking to collaborate on User-centric Application 
 - 🤔 I’m looking for help with new React features
 - 📫 How to reach me: https://www.linkedin.com/in/cynthia-salwa-salam-61394975/
-- 😄 Pronouns: Optimist, Dreamer
+- 😄 Adjectives: Optimist, Dreamer
 
