@@ -8,5 +8,6 @@ Absolutely ready to learn new programming languages and technologies
 - 🌱 I’m currently learning Docker
 - 🤔 I’m looking for help with new React features
 - 📫 How to reach me: https://www.linkedin.com/in/cynthia-salwa-salam-61394975/
+- 🔭 YouTube: https://www.youtube.com/channel/UCgEwAunDvcRgsK09YiQWDPg
 - 😄 Adjectives: Optimist, Dreamer
 
